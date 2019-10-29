@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Omar El-Kishky"
-  avatar           : "profilepic.jpg"
+  avatar           : "/images/profilepic.jpg"
   bio              : "TBD"
   location         : "Location"
   employer         :
